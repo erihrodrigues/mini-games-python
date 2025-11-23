@@ -1,4 +1,4 @@
-from FORCA import forca
+git stafrom FORCA import forca
 from ADIVINHACAO import Adivinhacao
 
 
