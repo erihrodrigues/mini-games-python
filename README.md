@@ -85,8 +85,8 @@ GAMES/
     -  os
 
 ## Erica Almeida
-Estudante de Engenharia de Computação | Iniciante em Python
-Comecei meus estudos na plataforma Alura, com foco em lógica, Python e boas práticas.
-Interessada em programação e cibersegurança.
+| Estudante de Engenharia de Computação | Iniciante em Python. 
+| Comecei meus estudos na plataforma Alura, com foco em lógica, Python e boas práticas. 
+| Interessada em programação e cibersegurança. |
 
 
